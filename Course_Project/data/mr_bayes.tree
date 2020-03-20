@@ -1,0 +1,9 @@
+(Pan_troglodytes:3.553858e-03,Homo_sapiens:3.179082e-03,
+((Eschrichtius_robustus:1.462694e-01,((Mustela_putorius_furo:5.289801e-02,
+Callorhinus_ursinus:3.720155e-02)0.947:1.424477e-02,
+Canis_lupus_familiaris:7.698611e-02)1.000:5.640935e-02)1.000:4.478372e-02,
+((Gallus_gallus:1.844853e-01,((Amazona_aestiva:1.217258e-01,
+Columba_livia:8.429987e-02)0.808:1.258863e-02,
+Chlamydotis_macqueenii:7.451511e-02)0.876:3.760397e-02)1.000:7.301567e-01,
+(Mus_musculus:6.174909e-02,Rattus_norvegicus:7.353681e-02)1.000:2.147514e-01)
+0.997:5.854094e-02)1.000:1.018678e-01);
